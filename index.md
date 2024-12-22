@@ -4,3 +4,6 @@
 ``` C++
 cout << "Hello World";
 ```
+- [ ] Learn How to using GitHub for studing and coding
+- [ ] How to using Mark Down
+- [ ] The end
